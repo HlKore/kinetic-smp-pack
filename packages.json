@@ -1,0 +1,12 @@
+{
+    "minimumVersion":  3,
+    "packages":  [
+                     {
+                         "name":  "kinetic-smp",
+                         "title":  "Kinetic SMP",
+                         "version":  "v1.0.0",
+                         "location":  "KineticSMP.json",
+                         "priority":  1
+                     }
+                 ]
+}
