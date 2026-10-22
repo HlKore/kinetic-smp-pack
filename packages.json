@@ -4,7 +4,7 @@
                      {
                          "name":  "kinetic-smp",
                          "title":  "Kinetic SMP",
-                         "version":  "v1.0.0",
+                         "version":  "v1.0.1",
                          "location":  "KineticSMP.json",
                          "priority":  1
                      }
